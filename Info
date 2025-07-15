@@ -1,0 +1,21 @@
+First, we examine the data set:
+  Column names,
+  Data types,
+  Empty data,
+  Missing data,
+  Is there any duplicate data?
+This gives us a general overview of our data set.
+
+If there are any incorrect values, we correct them. (These corrections are handled in different ways depending on the category of the error and the status of the values.)
+In our dataset:
+  The data type of the date column,
+  cpc, cpm, ctr, and romi empty values have been corrected.
+
+We examine the basic statistical properties of the columns containing numerical values in our dataset.
+This helps us understand what kind of dataset we are working with and how to proceed.
+
+Finally, we carry out the tasks requested of us step by step.
+
+
+  
+  
