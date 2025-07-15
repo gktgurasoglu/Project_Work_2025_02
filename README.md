@@ -14,6 +14,14 @@ The ability to analyze relationships and dependencies in data using Seaborn,
 Methods for creating graphs for categorical data,
 How to present linear regression modeling results, can be found in this project.
 
+You can review the project under five main headings:   
+ 01 Info:    
+   In this section, you can find an explanation of the roadmap followed.   
+ 02 Dataset:    
+   You can access the file used.   
+ 03 Jupyter Notebook:    
+   You can access the code containing data manipulation performed with Python pandas and visualizations performed with matplotlib and seaborn.
+
 
 Steps implemented in the project:
 
